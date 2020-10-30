@@ -1,0 +1,12 @@
+{
+    "name": "user/5laba",
+    "authors": [
+        {
+            "name": "dexter82323",
+            "email": "vlad.veresklya@yandex.ru"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.0.0"
+    }
+}
